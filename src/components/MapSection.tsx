@@ -17,7 +17,7 @@ export default function MapSection() {
 
         <div className="mt-10 rounded-xl overflow-hidden border border-border-light dark:border-border-dark">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d526.6009942616712!2d44.802810045500166!3d41.70098493442307!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40440ce0a3a0db11%3A0x9e9bf44525bf452b!2sDry%20Bridge%20Market!5e0!3m2!1sen!2sus!4v1775534985712!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d744.72613759669!2d44.802473969714654!3d41.7009961982039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40440ce0a3a0db11%3A0x9e9bf44525bf452b!2sDry%20Bridge%20Market!5e0!3m2!1sen!2sus!4v1775549120440!5m2!1sen!2sus"
             width="100%"
             height="450"
             style={{ border: 0 }}
@@ -33,9 +33,12 @@ export default function MapSection() {
             href="https://maps.app.goo.gl/xMmN6kqmtBFinqba7"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm text-accent hover:underline font-medium"
+            className="inline-flex items-center gap-2 text-accent hover:underline font-medium"
           >
-            {t("openMaps")}
+            <span>{t("openMaps")}</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-4 h-4">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+            </svg>
           </a>
         </div>
       </div>

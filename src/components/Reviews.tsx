@@ -2,17 +2,6 @@
 
 import { useTranslations } from "next-intl";
 
-const reviewIndices = [0, 1, 2, 3, 4, 5];
-
-const colors = [
-  "bg-amber-700",
-  "bg-emerald-700",
-  "bg-indigo-700",
-  "bg-rose-700",
-  "bg-teal-700",
-  "bg-violet-700",
-];
-
 export default function Reviews() {
   const t = useTranslations("reviews");
 
@@ -29,60 +18,109 @@ export default function Reviews() {
           {t("subtitle")}
         </p>
 
-        <div className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-6">
-          {reviewIndices.map((i) => {
-            const name = t(`items.${i}.name`);
-            const date = t(`items.${i}.date`);
-            const text = t(`items.${i}.text`);
-            const initial = name.charAt(0);
-
-            return (
-              <div
-                key={i}
-                className="p-6 rounded-xl border border-border-light dark:border-border-dark bg-white dark:bg-neutral-900/50 hover:shadow-md transition-shadow duration-300"
-              >
-                <div className="flex items-center gap-3 mb-4">
-                  <div
-                    className={`w-10 h-10 rounded-full ${colors[i]} flex items-center justify-center text-white text-sm font-semibold flex-shrink-0`}
-                  >
-                    {initial}
-                  </div>
-                  <div>
-                    <p className="text-sm font-medium">{name}</p>
-                    <p className="text-xs text-muted-light dark:text-muted-dark">
-                      {date}
-                    </p>
-                  </div>
-                  <div className="ml-auto flex gap-0.5">
-                    {[1, 2, 3, 4, 5].map((star) => (
-                      <svg
-                        key={star}
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewBox="0 0 20 20"
-                        fill="currentColor"
-                        className="w-3.5 h-3.5 text-accent"
-                      >
-                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                      </svg>
-                    ))}
-                  </div>
-                </div>
-                <p className="text-sm leading-relaxed text-muted-light dark:text-muted-dark">
-                  {text}
-                </p>
+        <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="p-6 bg-white dark:bg-neutral-900 rounded-xl border border-border-light dark:border-border-dark">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-semibold">
+                D
               </div>
-            );
-          })}
+              <div>
+                <p className="font-semibold">David K.</p>
+                <p className="text-sm text-muted-light dark:text-muted-dark">March 2026</p>
+              </div>
+            </div>
+            <p className="text-muted-light dark:text-muted-dark leading-relaxed">
+              Absolutely one of the best flea markets in the Caucasus. Spent hours browsing Soviet badges, old paintings, and quirky antiques. The vendors are friendly and love to share stories.
+            </p>
+          </div>
+
+          <div className="p-6 bg-white dark:bg-neutral-900 rounded-xl border border-border-light dark:border-border-dark">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-semibold">
+                N
+              </div>
+              <div>
+                <p className="font-semibold">Nino T.</p>
+                <p className="text-sm text-muted-light dark:text-muted-dark">February 2026</p>
+              </div>
+            </div>
+            <p className="text-muted-light dark:text-muted-dark leading-relaxed">
+              My favourite place in Tbilisi. Every weekend I find something new — old vinyl records, handmade jewelry. It's a treasure hunt every time.
+            </p>
+          </div>
+
+          <div className="p-6 bg-white dark:bg-neutral-900 rounded-xl border border-border-light dark:border-border-dark">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-semibold">
+                M
+              </div>
+              <div>
+                <p className="font-semibold">Marco L.</p>
+                <p className="text-sm text-muted-light dark:text-muted-dark">January 2026</p>
+              </div>
+            </div>
+            <p className="text-muted-light dark:text-muted-dark leading-relaxed">
+              A must-visit for anyone in Tbilisi. The atmosphere is incredible, especially on Saturdays. Great for unique souvenirs and street photography.
+            </p>
+          </div>
+
+          <div className="p-6 bg-white dark:bg-neutral-900 rounded-xl border border-border-light dark:border-border-dark">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-semibold">
+                L
+              </div>
+              <div>
+                <p className="font-semibold">Lisa W.</p>
+                <p className="text-sm text-muted-light dark:text-muted-dark">December 2025</p>
+              </div>
+            </div>
+            <p className="text-muted-light dark:text-muted-dark leading-relaxed">
+              Such a fascinating market! I found beautiful cloisonné enamel pieces and vintage Georgian postcards. Prices are reasonable if you bargain gently.
+            </p>
+          </div>
+
+          <div className="p-6 bg-white dark:bg-neutral-900 rounded-xl border border-border-light dark:border-border-dark">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-semibold">
+                S
+              </div>
+              <div>
+                <p className="font-semibold">Sandro M.</p>
+                <p className="text-sm text-muted-light dark:text-muted-dark">November 2025</p>
+              </div>
+            </div>
+            <p className="text-muted-light dark:text-muted-dark leading-relaxed">
+              This market is a living museum. War medals, old cameras, Soviet propaganda posters — the history on display here is remarkable.
+            </p>
+          </div>
+
+          <div className="p-6 bg-white dark:bg-neutral-900 rounded-xl border border-border-light dark:border-border-dark">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-semibold">
+                Y
+              </div>
+              <div>
+                <p className="font-semibold">Yuki S.</p>
+                <p className="text-sm text-muted-light dark:text-muted-dark">October 2025</p>
+              </div>
+            </div>
+            <p className="text-muted-light dark:text-muted-dark leading-relaxed">
+              Came here on a Sunday morning. The bridge area was full of artists selling oil paintings. Bought a beautiful Tbilisi cityscape for my apartment.
+            </p>
+          </div>
         </div>
 
-        <div className="mt-10 text-center">
+        <div className="mt-12 text-center">
           <a
             href="https://maps.app.goo.gl/xMmN6kqmtBFinqba7"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm text-accent hover:underline font-medium"
+            className="inline-flex items-center gap-2 text-accent hover:underline font-medium"
           >
-            {t("seeMore")}
+            <span>{t("seeMore")}</span>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-4 h-4">
+              <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+            </svg>
           </a>
         </div>
       </div>

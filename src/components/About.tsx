@@ -5,15 +5,6 @@ import { useTranslations } from "next-intl";
 export default function About() {
   const t = useTranslations("about");
 
-  const highlights = [
-    t("highlights.0"),
-    t("highlights.1"),
-    t("highlights.2"),
-    t("highlights.3"),
-    t("highlights.4"),
-    t("highlights.5"),
-  ];
-
   return (
     <section id="intro" className="py-24 sm:py-28">
       <div className="max-w-5xl mx-auto px-4 sm:px-6">
@@ -21,22 +12,11 @@ export default function About() {
           {t("title")}
         </h2>
         <p className="mt-6 text-lg leading-relaxed text-muted-light dark:text-muted-dark max-w-3xl">
-          {t("description")}
+          Dry Bridge Market (მშრალი ხიდის ბაზარი) 由 Tbilisi 市市政厅管理和维护。作为第比利斯重要的公共文化与旅游地标，该市场自1990年代初以来一直是展示格鲁吉亚历史、文化和当地创造力的开放式公共空间。
         </p>
-
-        <ul className="mt-10 space-y-4 max-w-3xl">
-          {highlights.map((item, i) => (
-            <li
-              key={i}
-              className="flex items-start gap-3 text-base leading-relaxed"
-            >
-              <span className="mt-1.5 w-1.5 h-1.5 rounded-full bg-accent flex-shrink-0" />
-              <span className="text-muted-light dark:text-muted-dark">
-                {item}
-              </span>
-            </li>
-          ))}
-        </ul>
+        <p className="mt-4 text-lg leading-relaxed text-muted-light dark:text-muted-dark max-w-3xl">
+          本市场是第比利斯开放式公共跳蚤市场，全天对外开放（建议运营时间：每日约 11:00 AM – 6:00 PM，周末氛围更佳）。免费入场，无需门票。地址：PR23+96X, Tbilisi, Georgia（位于 Mtkvari 河岸、Dry Bridge 下方）。
+        </p>
       </div>
     </section>
   );

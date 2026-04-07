@@ -10,7 +10,7 @@ export default function Footer() {
   return (
     <footer className="py-16 border-t border-border-light dark:border-border-dark">
       <div className="max-w-5xl mx-auto px-4 sm:px-6">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           {/* Left column - Branding & Contact */}
           <div>
             <p className="text-sm font-semibold mb-1">მშრალი ხიდის ბაზარი</p>
@@ -36,10 +36,20 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Middle column - Useful Links */}
+          {/* Middle column - Official Links */}
           <div>
-            <p className="text-sm font-semibold mb-3">{t("links")}</p>
+            <p className="text-sm font-semibold mb-3">更多信息</p>
             <ul className="space-y-2">
+              <li>
+                <a
+                  href="https://tbilisi.gov.ge/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-muted-light dark:text-muted-dark hover:text-accent transition-colors"
+                >
+                  Tbilisi City Hall
+                </a>
+              </li>
               <li>
                 <a
                   href="https://georgia.travel/"
@@ -47,7 +57,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="text-sm text-muted-light dark:text-muted-dark hover:text-accent transition-colors"
                 >
-                  {t("georgiaTravel")}
+                  Georgia Travel
                 </a>
               </li>
               <li>
@@ -57,7 +67,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="text-sm text-muted-light dark:text-muted-dark hover:text-accent transition-colors"
                 >
-                  {t("gnta")}
+                  Georgian National Tourism Administration
                 </a>
               </li>
             </ul>
@@ -93,15 +103,16 @@ export default function Footer() {
               </li>
             </ul>
           </div>
-        </div>
 
-        <div className="mt-12 pt-8 border-t border-border-light dark:border-border-dark flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
-          <p className="text-xs text-muted-light dark:text-muted-dark">
-            {t("copyright")}
-          </p>
-          <p className="text-xs text-muted-light dark:text-muted-dark">
-            {t("lastUpdated")}
-          </p>
+          {/* Rightmost column - Copyright */}
+          <div>
+            <p className="text-sm text-muted-light dark:text-muted-dark">
+              © Tbilisi City Hall · 所有权利保留
+            </p>
+            <p className="text-xs text-muted-light dark:text-muted-dark mt-2">
+              最后更新：{new Date().toLocaleDateString('zh-CN')}
+            </p>
+          </div>
         </div>
       </div>
     </footer>
