@@ -38,7 +38,7 @@ export default function Footer() {
 
           {/* Middle column - Official Links */}
           <div>
-            <p className="text-sm font-semibold mb-3">更多信息</p>
+            <p className="text-sm font-semibold mb-3">{t("moreInfo")}</p>
             <ul className="space-y-2">
               <li>
                 <a
@@ -107,10 +107,10 @@ export default function Footer() {
           {/* Rightmost column - Copyright */}
           <div>
             <p className="text-sm text-muted-light dark:text-muted-dark">
-              © Tbilisi City Hall · 所有权利保留
+              {t("copyrightText")}
             </p>
             <p className="text-xs text-muted-light dark:text-muted-dark mt-2">
-              最后更新：{new Date().toLocaleDateString('zh-CN')}
+              {t("lastUpdatedText")}
             </p>
           </div>
         </div>

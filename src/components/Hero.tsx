@@ -14,7 +14,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/gallery/images (1).jpg"
+          src="https://images.unsplash.com/photo-1565008576549-57569a49371d?w=1600&q=80"
           alt="Dry Bridge Market, Tbilisi"
           fill
           className="object-cover"
@@ -33,7 +33,7 @@ export default function Hero() {
           Dry Bridge Market
         </p>
         <p className="text-lg text-white/70 mt-4 max-w-2xl font-light">
-          Dry Bridge Market (მშრალი ხიდის ბაზარი) 由 Tbilisi 市市政厅管理和维护。作为第比利斯重要的公共文化与旅游地标，该市场自1990年代初以来一直是展示格鲁吉亚历史、文化和当地创造力的开放式公共空间。
+          {t("hero.description")}
         </p>
 
         {/* Info row */}

@@ -9,7 +9,8 @@
     "cookies": "Cookie Settings"
   },
   "hero": {
-    "subtitle": "Tbilisi's beloved open-air flea market by the river",
+    "subtitle": "Official open-air public market managed by Tbilisi City Hall",
+    "description": "Dry Bridge Market (მშრალი ხიდის ბაზარი) is managed and maintained by Tbilisi City Hall. As an important public cultural and tourism landmark in Tbilisi, this market has been an open public space showcasing Georgian history, culture, and local creativity since the early 1990s.",
     "rating": "4.5/5",
     "reviewCount": "9,600+ reviews",
     "hours": "Daily 11:00 AM – 6:00 PM",
@@ -33,7 +34,8 @@
   },
   "about": {
     "title": "About the Market",
-    "description": "Dry Bridge Market (მშრალი ხიდის ბაზარი) is managed and maintained by Tbilisi City Hall. As an important public cultural and tourism landmark in Tbilisi, this market has been an open public space showcasing Georgian history, culture, and local creativity since the early 1990s."
+    "description1": "Dry Bridge Market (მშრალი ხიდის ბაზარი) is managed and maintained by Tbilisi City Hall. As an important public cultural and tourism landmark in Tbilisi, this market has been an open public space showcasing Georgian history, culture, and local creativity since the early 1990s.",
+    "description2": "This market is an open-air public flea market in Tbilisi, open all day (recommended operating hours: approx. 11:00 AM – 6:00 PM daily, better atmosphere on weekends). Free admission, no tickets required. Address: PR23+96X, Tbilisi, Georgia (located on the banks of the Mtkvari River, under the Dry Bridge)."
   },
   "gallery": {
     "title": "Photo Gallery",
@@ -75,6 +77,9 @@
     "openMaps": "Open on Google Maps →"
   },
   "footer": {
+    "copyrightText": "© Tbilisi City Hall. All rights reserved.",
+    "lastUpdatedText": "Last Updated: 2026/4/7",
+    "moreInfo": "More Information",
     "links": "Useful Links",
     "legal": "Legal Information",
     "phone": "+995 555 696 896",
@@ -87,6 +92,7 @@
     "lastUpdated": "Last Updated: April 2026"
   },
   "legal": {
+    "officialNotice": "This website is managed and operated by Tbilisi City Hall and is the official information platform for Dry Bridge Market.",
     "privacy": {
       "title": "Privacy Policy",
       "effectiveDate": "Last Updated: April 2026",
