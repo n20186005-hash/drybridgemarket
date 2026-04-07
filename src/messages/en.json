@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "discover": "Discover",
+    "photos": "Photos",
+    "reviews": "Reviews",
+    "map": "Map",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings"
+  },
+  "hero": {
+    "subtitle": "Tbilisi's beloved open-air flea market by the river",
+    "rating": "4.5/5",
+    "reviewCount": "9,600+ reviews",
+    "hours": "Daily 11:00 AM – 6:00 PM",
+    "address": "PR23+96X, Tbilisi, Georgia",
+    "openMaps": "Open on Google Maps →",
+    "tip": "Best on weekends — peak atmosphere & vendors",
+    "phone": "+995 555 696 896"
+  },
+  "tags": {
+    "items": {
+      "0": "Flea Market",
+      "1": "Antiques",
+      "2": "Vintage",
+      "3": "Soviet Memorabilia",
+      "4": "Georgian Handicrafts",
+      "5": "Art Market",
+      "6": "Tbilisi Souvenirs",
+      "7": "Street Photography",
+      "8": "Cultural Heritage"
+    }
+  },
+  "about": {
+    "title": "Why Visit Dry Bridge Market",
+    "description": "Dry Bridge Market is Tbilisi's most iconic open-air bazaar, sprawling beneath the old Dry Bridge and along the leafy banks of the Mtkvari River. Since the early 1990s, locals have gathered here to sell everything from Soviet-era relics to hand-painted canvases, antique jewelry, vinyl records, and traditional Georgian crafts. It is a living museum of post-Soviet culture and Georgian creativity — chaotic, colorful, and endlessly fascinating.",
+    "highlights": {
+      "0": "Soviet memorabilia — military medals, vintage cameras, enamel pins, propaganda posters",
+      "1": "Original oil paintings and watercolors by local Georgian artists",
+      "2": "Antique jewelry, silver filigree, and cloisonné enamelwork",
+      "3": "Vinyl records, old books, and hand-drawn maps of the Caucasus",
+      "4": "Traditional Georgian handicrafts — drinking horns, felt hats, ceramics",
+      "5": "Street photography paradise — every stall tells a story"
+    }
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Scenes from Dry Bridge Market, Tbilisi",
+    "note": "Photos sourced from the market's official collection and licensed media. To view all photos, visit our Google Maps page.",
+    "photos": {
+      "0": { "caption": "Overlooking the Dry Bridge and market stalls" },
+      "1": { "caption": "Vintage treasures and Soviet memorabilia" },
+      "2": { "caption": "Paintings displayed along the park paths" },
+      "3": { "caption": "The bustling weekend flea market scene" },
+      "4": { "caption": "Antique silverware and Georgian crafts" },
+      "5": { "caption": "Colorful art and handmade souvenirs" }
+    }
+  },
+  "reviews": {
+    "title": "Real Visitor Reviews",
+    "subtitle": "Ratings and reviews from Google Maps (last updated: 2026). We only show a verified selection of highly-rated reviews.",
+    "seeMore": "See more reviews on Google Maps →",
+    "items": {
+      "0": { "name": "David K.", "date": "March 2026", "text": "Absolutely one of the best flea markets in the Caucasus. Spent hours browsing Soviet badges, old paintings, and quirky antiques. The vendors are friendly and love to share stories." },
+      "1": { "name": "Nino T.", "date": "February 2026", "text": "My favourite place in Tbilisi. Every weekend I find something new — old vinyl records, handmade jewelry. It's a treasure hunt every time." },
+      "2": { "name": "Marco L.", "date": "January 2026", "text": "A must-visit for anyone in Tbilisi. The atmosphere is incredible, especially on Saturdays. Great for unique souvenirs and street photography." },
+      "3": { "name": "Lisa W.", "date": "December 2025", "text": "Such a fascinating market! I found beautiful cloisonné enamel pieces and vintage Georgian postcards. Prices are reasonable if you bargain gently." },
+      "4": { "name": "Sandro M.", "date": "November 2025", "text": "This market is a living museum. War medals, old cameras, Soviet propaganda posters — the history on display here is remarkable." },
+      "5": { "name": "Yuki S.", "date": "October 2025", "text": "Came here on a Sunday morning. The bridge area was full of artists selling oil paintings. Bought a beautiful Tbilisi cityscape for my apartment." }
+    }
+  },
+  "map": {
+    "title": "How to Get There",
+    "openMaps": "Open on Google Maps →"
+  },
+  "footer": {
+    "copyright": "© 2026 მშრალი ხიდის ბაზარი · Dry Bridge Market Administration Office, Tbilisi.",
+    "lastUpdated": "Last updated: April 2026",
+    "links": "Useful Links",
+    "georgiaTravel": "Georgia Travel",
+    "gnta": "Georgian National Tourism Administration",
+    "phone": "Administration Office: +995 555 696 896",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookieSettings": "Cookie Settings"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "This Privacy Policy explains how the Dry Bridge Market Administration Office (\"we\", \"us\", \"our\") collects, uses, and protects information when you visit drybridgemarket.com.",
+      "effectiveDate": "Effective date: April 2026",
+      "collection": {
+        "title": "Information We Collect",
+        "text": "This website does not require user registration or collect personal information directly. We may collect anonymised usage data (such as page views and browser type) through standard web analytics to improve site performance."
+      },
+      "thirdParty": {
+        "title": "Third-Party Services — Google Maps",
+        "text": "This website embeds Google Maps services and provides links to Google Maps for location, directions, and visitor reviews. When you interact with embedded Google Maps content or follow links to Google Maps, your data may be processed by Google LLC in accordance with Google's Privacy Policy (https://policies.google.com/privacy). This may include your IP address, device information, location data, and browsing behaviour. We do not control and are not responsible for Google's data processing practices. We recommend reviewing Google's Privacy Policy before interacting with embedded map content."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "text": "This website uses essential cookies for language preference and theme (light/dark mode) selection. These cookies are strictly functional and do not track personal information. Third-party services embedded on this site (such as Google Maps) may set their own cookies. Please refer to our Cookie Settings page for details."
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "For privacy-related enquiries, please contact the Administration Office at +995 555 696 896."
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "By accessing and using drybridgemarket.com (the \"Website\"), you agree to the following terms and conditions set forth by the Dry Bridge Market Administration Office.",
+      "effectiveDate": "Effective date: April 2026",
+      "use": {
+        "title": "Use of This Website",
+        "text": "This Website is operated by the Dry Bridge Market Administration Office as a public information service. All content is provided for general informational purposes regarding the Dry Bridge Market in Tbilisi, Georgia. We make reasonable efforts to ensure accuracy but do not guarantee that all information is complete or current at all times."
+      },
+      "ip": {
+        "title": "Intellectual Property",
+        "text": "All original content on this Website, including text, design, and layout, is the property of the Dry Bridge Market Administration Office. Photographs are sourced from licensed media and the market's official collection. Reproduction without written permission is prohibited."
+      },
+      "external": {
+        "title": "External Links Disclaimer",
+        "text": "This Website contains links to external third-party websites, including Google Maps, Georgia Travel (georgia.travel), and the Georgian National Tourism Administration (gnta.ge). These links are provided for the convenience of visitors. The Dry Bridge Market Administration Office does not control, endorse, or assume responsibility for the content, privacy policies, or practices of any third-party websites. Accessing external links is at your own discretion and risk."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "text": "The Dry Bridge Market Administration Office shall not be liable for any direct or indirect damages arising from the use of this Website or reliance on its content, including information obtained through third-party services."
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "For enquiries regarding these terms, please contact the Administration Office at +995 555 696 896."
+      }
+    },
+    "cookies": {
+      "title": "Cookie Settings",
+      "intro": "This page explains how drybridgemarket.com uses cookies and similar technologies.",
+      "effectiveDate": "Effective date: April 2026",
+      "essential": {
+        "title": "Essential Cookies",
+        "text": "We use strictly necessary cookies to store your language preference (English, ქართული, or 繁體中文) and your theme selection (light or dark mode). These cookies are required for the Website to function correctly and cannot be disabled."
+      },
+      "thirdParty": {
+        "title": "Third-Party Cookies — Google Services",
+        "text": "This Website embeds Google Maps, which may set cookies on your device when you view or interact with the embedded map. These cookies are managed by Google LLC and may be used for analytics, personalisation, and advertising purposes in accordance with Google's Cookie Policy (https://policies.google.com/technologies/cookies). The Dry Bridge Market Administration Office does not control these cookies. You may manage or block third-party cookies through your browser settings."
+      },
+      "manage": {
+        "title": "Managing Your Cookie Preferences",
+        "text": "You can control cookies through your browser settings. Most browsers allow you to block or delete cookies. Please note that disabling essential cookies may affect the functionality of this Website (e.g., language and theme preferences may not be saved)."
+      },
+      "contact": {
+        "title": "Contact",
+        "text": "For questions about our use of cookies, please contact the Administration Office at +995 555 696 896."
+      }
+    }
+  }
+}
