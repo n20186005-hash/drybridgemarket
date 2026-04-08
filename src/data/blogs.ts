@@ -96,18 +96,18 @@ The city government continues to support the market by maintaining the surroundi
 ## What You Can Find
 
 The variety of items is staggering:
-- **Military Medals and Badges**: From common commemorative pins to rare military honors.
-- **Vintage Cameras**: Zenit, FED, and Zorki cameras are frequently found in working condition.
-- **Propaganda Posters**: Original prints featuring Soviet leaders and socialist realism art.
-- **Everyday Items**: Clocks, porcelain figures, traditional drinking horns, and kitchenware.
+- Military Medals and Badges: From common commemorative pins to rare military honors.
+- Vintage Cameras: Zenit, FED, and Zorki cameras are frequently found in working condition.
+- Propaganda Posters: Original prints featuring Soviet leaders and socialist realism art.
+- Everyday Items: Clocks, porcelain figures, traditional drinking horns, and kitchenware.
 
 ## Tips for Buyers
 
 When browsing these historical items, keep a few things in mind:
 
-1. **Take your time**: The best items are often buried under piles of more common goods.
-2. **Bargain politely**: Haggling is expected, but always keep it friendly and respectful. The vendors are often selling personal collections.
-3. **Ask questions**: Many vendors speak basic English and are happy to explain the history behind the items they are selling.
+1. Take your time: The best items are often buried under piles of more common goods.
+2. Bargain politely: Haggling is expected, but always keep it friendly and respectful. The vendors are often selling personal collections.
+3. Ask questions: Many vendors speak basic English and are happy to explain the history behind the items they are selling.
 
 Whether you are a serious collector or just looking for a unique souvenir, the market offers a fascinating glimpse into the 20th-century history of the region.`
       },
@@ -120,18 +120,18 @@ Whether you are a serious collector or just looking for a unique souvenir, the m
 ## 您可以找到什麼
 
 物品的種類令人驚嘆：
-- **軍事勳章和徽章**：從常見的紀念別針到罕見的軍事榮譽。
-- **復古相機**：經常可以找到狀況良好的 Zenit、FED 和 Zorki 相機。
-- **宣傳海報**：以蘇聯領導人和社會主義現實主義藝術為特色的原版印刷品。
-- **日常用品**：時鐘、瓷像、傳統飲酒角和廚具。
+- 軍事勳章和徽章：從常見的紀念別針到罕見的軍事榮譽。
+- 復古相機：經常可以找到狀況良好的 Zenit、FED 和 Zorki 相機。
+- 宣傳海報：以蘇聯領導人和社會主義現實主義藝術為特色的原版印刷品。
+- 日常用品：時鐘、瓷像、傳統飲酒角和廚具。
 
 ## 買家提示
 
 在瀏覽這些歷史物品時，請記住以下幾點：
 
-1. **慢慢來**：最好的物品通常埋在成堆的普通商品下面。
-2. **禮貌地討價還價**：討價還價是預期中的，但始終保持友好和尊重。攤販經常出售個人收藏。
-3. **多問問題**：許多攤販會說基本的英語，很樂意解釋他們出售物品背後的歷史。
+1. 慢慢來：最好的物品通常埋在成堆的普通商品下面。
+2. 禮貌地討價還價：討價還價是預期中的，但始終保持友好和尊重。攤販經常出售個人收藏。
+3. 多問問題：許多攤販會說基本的英語，很樂意解釋他們出售物品背後的歷史。
 
 無論您是認真的收藏家還是只是尋找獨特的紀念品，該市場都能讓您對該地區20世紀的歷史有著迷人的了解。`
       },
@@ -144,18 +144,18 @@ Whether you are a serious collector or just looking for a unique souvenir, the m
 ## რისი პოვნა შეგიძლიათ
 
 ნივთების მრავალფეროვნება გამაოგნებელია:
-- **სამხედრო მედლები და გულსაბნევები**: ჩვეულებრივი სამახსოვრო ქინძისთავებიდან დაწყებული იშვიათი სამხედრო ჯილდოებით დამთავრებული.
-- **ვინტაჟური კამერები**: ზენიტის, FED-ის და ზორკის კამერები ხშირად გვხვდება მუშა მდგომარეობაში.
-- **პროპაგანდისტული პლაკატები**: ორიგინალური პრინტები საბჭოთა ლიდერების და სოციალისტური რეალიზმის ხელოვნების მონაწილეობით.
-- **ყოველდღიური ნივთები**: საათები, ფაიფურის ფიგურები, ტრადიციული სასმელი რქები და სამზარეულოს ჭურჭელი.
+- სამხედრო მედლები და გულსაბნევები: ჩვეულებრივი სამახსოვრო ქინძისთავებიდან დაწყებული იშვიათი სამხედრო ჯილდოებით დამთავრებული.
+- ვინტაჟური კამერები: ზენიტის, FED-ის და ზორკის კამერები ხშირად გვხვდება მუშა მდგომარეობაში.
+- პროპაგანდისტული პლაკატები: ორიგინალური პრინტები საბჭოთა ლიდერების და სოციალისტური რეალიზმის ხელოვნების მონაწილეობით.
+- ყოველდღიური ნივთები: საათები, ფაიფურის ფიგურები, ტრადიციული სასმელი რქები და სამზარეულოს ჭურჭელი.
 
 ## რჩევები მყიდველებისთვის
 
 ამ ისტორიული ნივთების დათვალიერებისას, გაითვალისწინეთ რამდენიმე რამ:
 
-1. **ნუ იჩქარებთ**: საუკეთესო ნივთები ხშირად დამარხულია უფრო ჩვეულებრივი საქონლის გროვის ქვეშ.
-2. **ივაჭრეთ თავაზიანად**: ვაჭრობა მოსალოდნელია, მაგრამ ყოველთვის შეინარჩუნეთ მეგობრული და პატივისცემით სავსე ტონი. გამყიდველები ხშირად ყიდიან პირად კოლექციებს.
-3. **დასვით კითხვები**: ბევრი გამყიდველი საუბრობს ელემენტარულ ინგლისურს და სიამოვნებით ხსნის მათ მიერ გაყიდული ნივთების ისტორიას.
+1. ნუ იჩქარებთ: საუკეთესო ნივთები ხშირად დამარხულია უფრო ჩვეულებრივი საქონლის გროვის ქვეშ.
+2. ივაჭრეთ თავაზიანად: ვაჭრობა მოსალოდნელია, მაგრამ ყოველთვის შეინარჩუნეთ მეგობრული და პატივისცემით სავსე ტონი. გამყიდველები ხშირად ყიდიან პირად კოლექციებს.
+3. დასვით კითხვები: ბევრი გამყიდველი საუბრობს ელემენტარულ ინგლისურს და სიამოვნებით ხსნის მათ მიერ გაყიდული ნივთების ისტორიას.
 
 მიუხედავად იმისა, ხართ სერიოზული კოლექციონერი თუ უბრალოდ ეძებთ უნიკალურ სუვენირს, ბაზარი გთავაზობთ რეგიონის მე-20 საუკუნის ისტორიის მომხიბვლელ მიმოხილვას.`
       }
@@ -350,6 +350,145 @@ The wind of the Caucasus still blows, and the stories of thousands of years cont
 კავკასიის ქარი კვლავ უბერავს და ათასწლეულების ისტორიები გრძელდება. ეს მოგზაურობა თბილისიდან საბოლოოდ გახდება ყველაზე ძვირფასი მოგონება თქვენს მოგზაურობებში, ამოტვიფრული თქვენს გულში, არასოდეს დავიწყებული.
 
 * Affiliate Disclosure: ეს ვებგვერდი შეიცავს აფილირებულ ბმულებს Trip.com-ზე. თუ თქვენ გააკეთებთ დაჯავშნას ამ ბმულების საშუალებით, ჩვენ შეიძლება მივიღოთ მცირე საკომისიო თქვენთვის დამატებითი ხარჯების გარეშე. ეს გვეხმარება ვებგვერდის შენარჩუნებაში და უფასო სამოგზაურო გზამკვლევების მიწოდების გაგრძელებაში.`
+      }
+    }
+  },
+  {
+    id: "5",
+    slug: "kakheti-magic-10-hour-day-trip",
+    date: "2026-04-10",
+    author: "贾梅亚・尼什纳斯",
+    readTime: 10,
+    content: {
+      en: {
+        title: "Kakheti Magic: 10-Hour Day Trip from Tbilisi, A Must-Experience Journey",
+        category: "Travel Guide",
+        excerpt: "This 10-hour group day trip from Tbilisi covers the best of Kakheti, including Sighnaghi, Bodbe Monastery, and 8 authentic family winery tastings.",
+        body: `Many people's first impression of Georgia is captivated by the bustling old town of Tbilisi, the misty sulfur baths, and the modern lines of the Bridge of Peace. This capital city, blending European and Asian styles, has long been a landmark destination for traveling in the Caucasus. However, if your trip to Georgia only stays in Tbilisi, you will undoubtedly miss the most touching and mellow soul of this land. Hidden on the outskirts of the capital is a secret place praised by the world as "God's Backyard"—Kakheti. This is the birthplace of Georgian wine, boasting fairy-tale mountain towns, millennia-old religious sanctuaries, magnificent national epic monuments, and the endless Alazani Valley vineyards. Every inch of the land exudes the unique charm of history, wine aroma, and nature.
+
+This 10-hour group day trip starting from Tbilisi encapsulates the essence of Kakheti's scenery and cultural heritage. The route planning, attraction arrangement, and tour duration have been carefully polished to perfectly restore the most authentic local travel experience. The itinerary covers three core landmarks: the city of love Sighnaghi, Bodbe Monastery, and the Chronicles of Georgia monument, includes 8 authentic wine tasting experiences at local wineries, and allows you to taste the characteristic freshly baked bread and cheese in Badiauri village. 
+
+## A Magic Journey Through Millennia of Wine and History
+In the early morning, hop on the bus on time at the designated meeting point in Tbilisi and set off with the rising sun. The 10-hour journey is well-paced. An experienced local guide will accompany you throughout the trip, vividly narrating Georgia's 8,000-year history of winemaking along the way. From the ancient Qvevri winemaking process to the unique terroir of the Kakheti region, the long drive turns into an immersive cultural warm-up.
+
+## First Stop: Bodbe Monastery
+The first stop of the itinerary is the Bodbe Monastery, hidden amidst the greenery of the valley. This quiet and peaceful nunnery is one of the most significant religious pilgrimage sites in Georgia. Legend has it that St. Nino, the enlightener of Christianity in Georgia, rests here.
+- Spiritual Tranquility: Strolling through the monastery, dappled sunlight shines through the leaves onto the ancient stone walls, and time seems to stand still.
+- Exclusive Observation Deck: Standing on the monastery's exclusive observation deck, the panoramic view of the Alazani Valley vineyards unfolds before your eyes, offering one of the most classic and photogenic perspectives in the Kakheti region.
+
+## Second Stop: Sighnaghi — The City of Love
+Saying goodbye to Bodbe Monastery, we head to the most romantic destination of this trip—Sighnaghi. This stone town nestled in the mountains has the dual reputation of "City of Love" and "City of Wine."
+- Fairy-tale Scenery: The staggered red-tiled roofs, winding cobblestone alleys, and well-preserved 18th-century ancient city walls seal the time firmly, just like a dream town straight out of a fairy-tale book.
+- Romantic Atmosphere: Sighnaghi is one of the few towns in the world where you can register for marriage 24 hours a day. The whole town is filled with a sweet and gentle atmosphere.
+
+## Third Stop: 8 Immersive Family Winery Tastings
+If romantic scenery is the appearance of Sighnaghi, wine is the true soul of this town. Georgia is universally recognized as the birthplace of wine, and Kakheti is its core winemaking region. For 8,000 years, locals have adhered to the traditional Qvevri winemaking process.
+During the trip, we will visit multiple century-old family wineries. The winery owners will personally explain the winemaking traditions and processes. Afterward, you can taste several wines of different styles: refreshing and sweet white wine, rich and full-bodied red wine, and amber wine with unique and rich aromas.
+
+## Fourth Stop: Authentic Food in Badiauri Village
+After the wine tasting, the journey of taste buds continues as we head to Badiauri village to taste the most authentic Georgian food. The long *Shotis Puri* bread, fresh out of the traditional oven, has a crispy and fragrant crust and a soft and dense inside. Paired with locally handmade cheese, the simple ingredients collide to create the ultimate deliciousness.
+
+## Fifth Stop: Alazani Valley
+Leaving Badiauri village, the vehicle slowly enters the Alazani Valley, the natural facade of Kakheti and one of the most breathtaking natural landscapes in Georgia. The endless vineyards stretch to the foot of the mountains along the terrain, contrasting with the looming snow-capped Caucasus mountains in the distance. The clear blue sky, fresh green fields, and rolling hills form a stunning flowing oil painting.
+
+## Final Stop: Chronicles of Georgia
+The final stop of the day is the Chronicles of Georgia monument, a site of profound cultural significance. This giant stone sculpture group standing on top of a hill is known as the "Stonehenge of Georgia." The tall stone pillars are carved with Georgian religious legends, historical stories, and national epics. From the high ground where the monument is located, you can also overlook the entire cityscape of Tbilisi, putting a perfect and profound end to a whole day of history, humanities, and natural scenery.
+
+## Conclusion
+This is by no means a superficial check-in tour, but a comprehensive immersive experience. Whether you are a wine enthusiast obsessed with fine wines, a history buff deeply rooted in humanities, or a casual traveler eager to escape the city and embrace nature, this Kakheti magic journey can accurately meet your expectations.
+
+### Practical Information
+- Duration: 10 hours, group tour, unified departure from Tbilisi meeting point
+- Reference Price: As low as $23 / person
+- Cancellation Policy: Free cancellation before 00:00 on the day before the trip
+- Visitor Rating: 4.7/5 excellent reputation, certified by massive authentic tourist experiences
+
+*Some links on this site are Trip.com affiliate links. The booking price through these links is exactly the same as the official price, and no extra cost will be incurred by you. Your support will enable us to continue updating more practical travel guides.*
+<a href="https://www.trip.com/t/ZQ0oOYYZDU2" target="_blank">Book Kakheti Magic Day Trip on Trip.com</a>`
+      },
+      "zh-hant": {
+        title: "卡赫季魔法之旅：第比利斯 10 小時精華一日遊，一生必體驗",
+        category: "旅遊攻略",
+        excerpt: "這條從第比利斯出發的 10 小時拼團一日遊，將卡赫季的精華景致與人文底蘊盡數囊括，包含西格納吉、博德貝修道院及 8 場地道酒莊品酒體驗。",
+        body: `很多人初識喬治亞，都會被第比利斯老城的煙火氣、硫磺浴場的氤氳霧氣、和平橋的現代線條深深吸引，這座融合了歐亞風情的首都，早已成為外高加索旅行的標誌性目的地。但倘若你的喬治亞之行只停留在第比利斯，那無疑會錯過這片土地最動人、最醇厚的靈魂。在首都郊外，藏著一片被世人譽為「上帝後花園」的秘境——卡赫季。這裡是喬治亞的葡萄酒發源地，坐擁童話般的山間小鎮、沉澱千年的宗教聖地、氣勢恢宏的民族史詩紀念碑，更有連綿無際的阿拉扎尼山谷葡萄園，每一寸土地都散發著歷史、酒香與自然交融的獨特魅力。
+
+這條從第比利斯出發的 10 小時拼團一日遊，將卡赫季的精華景致與人文底蘊盡數囊括，路線規劃、景點排布、遊覽时长都經過精心打磨，完美還原當地最地道的遊玩體驗。行程涵蓋西格納吉愛情小鎮、博德貝修道院、喬治亞編年史紀念碑三大核心地標，包含 8 場原汁原味的酒莊品酒體驗，還能品嘗巴迪奧里村的特色現烤麵包與起司，全程價格低至23 美元 / 人，支持出發前一日 00:00 前免費取消，在遊客平台收穫 4.7/5 的超高評分，被無數旅行者譽為外高加索地區最值得一走的經典路線。
+
+## 穿越千年酒香與厚重歷史
+清晨時分，在第比利斯指定集合點準時上車，伴隨朝陽啟程，一場穿越千年酒香與厚重歷史的魔法之旅正式拉開帷幕。全程 10 小時的行程鬆緊有度，既不會因趕路而走馬觀花，也不會因路線冗餘浪費時間，每一段車程、每一處停留都恰到好處。經驗豐富的當地嚮導會全程隨行，在路上用生動的語言娓娓道來喬治亞長達 8000 年的釀酒歷史，從古老的陶罐釀酒工藝，到卡赫季產區得天獨厚的風土條件，讓枯燥的車程變成一場沉浸式的文化預熱，還未抵達酒莊，便已沉醉在葡萄酒的傳奇故事之中。
+
+## 第一站：博德貝修道院
+行程的第一站，便是藏於山谷綠意之間的博德貝修道院。這座清幽靜謐的女子修道院，是喬治亞境內最具份量的宗教朝聖地之一，相傳基督教啟蒙者聖尼諾便長眠於此，千百年來吸引著無數信徒前來朝聖。
+- 心靈的寧靜：漫步在修道院內，斑駁的陽光穿過枝葉縫隙，輕柔灑在古老的石牆上，時間彷彿在此刻靜止，無論你是否擁有宗教信仰，都會被這裡的純淨、莊嚴與平和深深打動。
+- 絕佳觀景台：站在修道院專屬觀景台上，整個阿拉扎尼山谷的葡萄園全景盡收眼底，層層疊疊的綠意鋪展向遠方，這也是卡赫季地區最經典、最出片的觀景視角之一。
+
+## 第二站：西格納吉——愛情小鎮
+告別博德貝修道院，便前往此行最具浪漫色彩的目的地——西格納吉。這座坐落在山間的石頭小城，有著「愛情小鎮」「紅酒小鎮」的雙重美譽。
+- 童話般的風景：錯落有致的紅瓦屋頂、蜿蜒曲折的石板小巷、保存完好的 18 世紀古城牆，將時光牢牢封存，宛如一座從童話書裡走出來的夢幻小鎮。小鎮面積不大，卻處處皆是風景：色彩斑斕的石砌民居、充滿文藝氣息的特色小店、視野開闊的觀景露台，隨手按下快門就是氛圍感十足的歐洲風情大片。
+- 浪漫的氣息：更特別的是，西格納吉是全球少有的 24 小時均可登記結婚的小鎮，無數情侶不遠萬里奔赴此地，許下相伴一生的誓言，整座小鎮都瀰漫著甜蜜溫柔的氣息，漫步其間，連微風都帶著浪漫的味道。
+
+## 第三站：8 場沉浸式家族酒莊品酒
+如果說浪漫的景致是西格納吉的外表，那葡萄酒便是這座小鎮真正的靈魂所在，而本次行程最令人期待的環節，便是 8 場地道的家族酒莊品酒體驗。喬治亞是世界公認的葡萄酒發源地，卡赫季則是其核心釀酒產區，8000 年來，當地始終堅守著傳統的陶罐釀酒工藝，不迎合工業化改良，保留著葡萄酒最本真的風味。
+行程中，我們將走進多家當地傳承百年的家族酒莊，酒莊主人會親自講解釀酒傳統與工藝，從葡萄採摘、陶罐發酵到陳年儲藏，一步步揭開喬治亞葡萄酒的神秘面紗。隨後便可依次品鑑多款風格迥異的佳釀：口感清爽回甘的白葡萄酒、醇厚濃鬱的紅葡萄酒、香氣獨特層次豐富的琥珀酒，每一口都飽含陽光的溫度、土壤的滋養與時間的沉澱，即便平日裡不常飲酒，也會被這份純粹自然的口感徹底征服，真正讀懂喬治亞根植於血脈的酒文化。
+
+## 第四站：巴迪奧里村的地道美食
+品酒過後，味蕾的旅程仍在繼續，我們將前往巴迪奧里村，品嘗喬治亞最具煙火氣的地道美食。剛從傳統窯爐中出爐的 Shotis Puri 長條麵包，外皮焦香酥脆，內裡鬆軟綿密，裹挾著濃鬱的麥香與窯烤獨有的焦香，搭配當地手工製作的綿密起司，簡單的食材碰撞出極致的美味，一口下去滿是治癒感。這是只有深入當地村落才能品嘗到的正宗滋味，沒有精緻的擺盤，卻藏著最質樸的溫暖，成為行程中最打動人心的小驚喜。
+
+## 第五站：阿拉扎尼山谷
+離開巴迪奧里村，車子緩緩駛入阿拉扎尼山谷，這裡是卡赫季的自然門面，也是喬治亞最震撼人心的自然景觀之一。一望無際的葡萄園順著地勢鋪展至山腳，與遠處若隱若現的高加索雪山交相輝映，澄澈的藍天、鮮嫩的綠野、起伏的山丘構成一幅流動的絕美油畫，堪稱攝影師的天堂。車行其間，每一個轉彎都能遇見意想不到的美景，風裡裹挾著葡萄藤的清新香氣，站在觀景台上極目遠眺，外高加索的遼闊與壯美盡收眼底，讓人徹底忘卻城市的喧囂，沉醉在這片自然秘境之中。
+
+## 最後一站：喬治亞編年史紀念碑
+當天行程的最後一站，是極具人文份量的喬治亞編年史紀念碑。這座矗立在山丘之巔的巨型石雕群，有著「喬治亞巨石陣」的美譽，一根根高大的石柱上雕刻著喬治亞的宗教傳說、歷史典故與民族史詩，每一處紋路都訴說著這個民族的千年過往。在湛藍天空的映襯下，石柱顯得格外莊嚴震撼，佇立碑前，能清晰感受到喬治亞民族千年傳承的堅韌與信仰。從紀念碑所在的高地，還能俯瞰第比利斯全城景致，錯落的建築、蜿蜒的河流盡收眼底，為一整天的歷史人文與自然風光之旅，畫上一個圓滿而厚重的句號。
+
+## 總結
+這絕非一次走馬觀花的打卡式旅行，而是一場全方位的沉浸式體驗，有葡萄酒的醇香、麵包的麥香、自然的清香，有動人的風景、鮮活的故事、厚重的歷史，更有獨屬於外高加索的溫柔與溫度。無論是癡迷佳釀的紅酒愛好者、深耕歷史的人文控、熱愛捕捉美景的攝影狂魔，還是渴望逃離城市、擁抱自然的休閒旅行者，這條卡赫季魔法之旅都能精準滿足你的期待，帶你看見一個褪去遊客濾鏡、更真實、更溫柔、更迷人的喬治亞。
+
+### 行程實用資訊
+- 行程時長：10 小時，拼團出行，第比利斯集合點統一出發
+- 參考價格：低至 23 美元 / 人
+- 取消政策：可於行程使用前一日 00:00 前免費取消
+- 遊客評分：4.7/5 口碑極佳，經海量遊客真實體驗認證
+
+*本站部分連結為 Trip.com 聯盟連結，點擊預訂的價格與官方完全一致，不會對您產生任何額外費用，您的支持將能讓我們持續更新更多實用的旅行攻略。*
+<a href="https://www.trip.com/t/ZQ0oOYYZDU2" target="_blank">在 Trip.com 預訂卡赫季魔法之旅</a>`
+      },
+      ka: {
+        title: "კახეთის ჯადოსნური ტური: 10-საათიანი დაუვიწყარი მოგზაურობა თბილისიდან",
+        category: "ტურისტული გზამკვლევი",
+        excerpt: "ეს 10-საათიანი ჯგუფური ტური თბილისიდან მოიცავს კახეთის საუკეთესო ადგილებს: სიღნაღს, ბოდბის მონასტერს და 8 საოჯახო მარანში ღვინის დეგუსტაციას.",
+        body: `ბევრი ადამიანის პირველი შთაბეჭდილება საქართველოზე არის თბილისის ხმაურიანი ძველი ქალაქი, გოგირდის აბანოები და მშვიდობის ხიდის თანამედროვე ხაზები. თუმცა, თუ თქვენი მოგზაურობა საქართველოში მხოლოდ თბილისით შემოიფარგლება, უდავოდ გამოტოვებთ ამ მიწის ყველაზე ამაღელვებელ სულს. დედაქალაქის გარეუბანში იმალება საიდუმლო ადგილი - კახეთი. ეს არის ქართული ღვინის სამშობლო, სადაც არის ზღაპრული მთის ქალაქები, ათასწლიანი რელიგიური სალოცავები და ალაზნის ველის უსასრულო ვენახები.
+
+ეს 10-საათიანი ჯგუფური ტური თბილისიდან მოიცავს კახეთის პეიზაჟებისა და კულტურული მემკვიდრეობის არსს. მარშრუტი მოიცავს სიღნაღს, ბოდბის მონასტერს და საქართველოს მატიანეს მონუმენტს, ასევე მოიცავს 8 ავთენტურ ღვინის დეგუსტაციას ადგილობრივ მარნებში და საშუალებას გაძლევთ დააგემოვნოთ ახლად გამომცხვარი პური და ყველი სოფელ ბადიაურში.
+
+## პირველი გაჩერება: ბოდბის მონასტერი
+მარშრუტის პირველი გაჩერებაა ბოდბის მონასტერი. ეს წყნარი და მშვიდი დედათა მონასტერი ერთ-ერთი ყველაზე მნიშვნელოვანი რელიგიური პილიგრიმობის ადგილია საქართველოში. ლეგენდის თანახმად, აქ განისვენებს წმინდა ნინო.
+- სულიერი სიმშვიდე: მონასტერში სეირნობისას დრო თითქოს ჩერდება.
+- ექსკლუზიური სადამკვირვებლო გემბანი: აქედან იშლება ალაზნის ველის ვენახების პანორამული ხედი.
+
+## მეორე გაჩერება: სიღნაღი — სიყვარულის ქალაქი
+ბოდბის მონასტერთან გამომშვიდობების შემდეგ მივემართებით ამ მოგზაურობის ყველაზე რომანტიკულ დანიშნულების ადგილზე - სიღნაღში. ამ ქვის ქალაქს აქვს "სიყვარულის ქალაქის" და "ღვინის ქალაქის" ორმაგი რეპუტაცია.
+- ზღაპრული პეიზაჟი: წითელი კრამიტის სახურავები და კარგად შემონახული მე-18 საუკუნის უძველესი ქალაქის კედლები ზღაპრულ გარემოს ქმნის.
+- რომანტიკული ატმოსფერო: სიღნაღი მსოფლიოში ერთ-ერთი იშვიათი ქალაქია, სადაც ქორწინების რეგისტრაცია დღე-ღამეში 24 საათის განმავლობაშია შესაძლებელი.
+
+## მესამე გაჩერება: ღვინის დეგუსტაცია 8 საოჯახო მარანში
+საქართველო საყოველთაოდ აღიარებულია ღვინის სამშობლოდ, კახეთი კი მისი მთავარი მეღვინეობის რეგიონია. მოგზაურობის განმავლობაში ვეწვევით რამდენიმე საუკუნოვან საოჯახო მარანს და დავაგემოვნებთ სხვადასხვა სტილის ღვინოებს.
+
+## მეოთხე გაჩერება: ავთენტური საკვები სოფელ ბადიაურში
+ღვინის დეგუსტაციის შემდეგ მივემართებით სოფელ ბადიაურში. ტრადიციული თონიდან ახლად ამოღებულ შოთის პურს ადგილობრივ ყველთან ერთად განსაკუთრებული გემო აქვს.
+
+## მეხუთე გაჩერება: ალაზნის ველი
+მანქანა ნელ-ნელა შედის ალაზნის ველზე, რომელიც კახეთის ბუნებრივი ფასადია და ერთ-ერთი ყველაზე თვალწარმტაცი ბუნებრივი პეიზაჟი საქართველოში. უსასრულო ვენახები და კავკასიონის თოვლიანი მთები განსაცვიფრებელ სურათს ქმნის.
+
+## ბოლო გაჩერება: საქართველოს მატიანე
+დღის ბოლო გაჩერება არის საქართველოს მატიანეს მონუმენტი. მაღალ ქვის სვეტებზე ამოკვეთილია ქართული რელიგიური ლეგენდები, ისტორიული ისტორიები და ეროვნული ეპოსი. აქედან შეგიძლიათ გადმოხედოთ თბილისის მთელ ქალაქს.
+
+### პრაქტიკული ინფორმაცია
+- ხანგრძლივობა: 10 საათი, ჯგუფური ტური თბილისიდან
+- ფასი: $23 / ადამიანიდან
+- გაუქმების პოლიტიკა: უფასო გაუქმება მოგზაურობის წინა დღის 00:00 საათამდე
+
+*ამ საიტზე ზოგიერთი ბმული არის Trip.com-ის აფილირებული ბმული. დაჯავშნის ფასი ზუსტად იგივეა, რაც ოფიციალური ფასი. თქვენი მხარდაჭერა საშუალებას მოგვცემს გავაგრძელოთ მოგზაურობის პრაქტიკული სახელმძღვანელოების განახლება.*
+<a href="https://www.trip.com/t/ZQ0oOYYZDU2" target="_blank">დაჯავშნეთ კახეთის ტური Trip.com-ზე</a>`
       }
     }
   }
