@@ -105,12 +105,14 @@ export default async function BlogPostPage({
           </div>
 
           {/* Simple markdown-like rendering for the fake data */}
-          {content.body.split('\n\n').map((paragraph, i, arr) => {
+          {content.body?.split('\n\n').map((paragraph, i, arr) => {
             // Calculate when to show the middle ad (roughly after 40% of the content)
             const showMiddleAd = i === Math.floor(arr.length * 0.4);
             
             // Basic markdown link parsing
             const renderTextWithLinks = (text: string) => {
+              if (typeof text !== 'string') return text;
+              
               const parts = text.split(/(<a href="[^"]+" target="_blank">.*?<\/a>)/g);
               return parts.map((part, index) => {
                 const match = part.match(/<a href="([^"]+)" target="_blank">(.*?)<\/a>/);
