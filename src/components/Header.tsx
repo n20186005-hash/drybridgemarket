@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { useTheme } from "next-themes";
 import { useRouter, usePathname } from "@/i18n/routing";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 
 const localeLabels: Record<string, string> = {
   en: "English",
@@ -28,10 +29,11 @@ export default function Header() {
   }, []);
 
   const navItems = [
-    { label: t("nav.discover"), href: "#intro" },
-    { label: t("nav.photos"), href: "#gallery" },
-    { label: t("nav.reviews"), href: "#reviews" },
-    { label: t("nav.map"), href: "#map" },
+    { label: t("nav.discover"), href: `/${pathname.split('/')[1] || ''}#intro` },
+    { label: t("nav.blog"), href: `/${pathname.split('/')[1] || ''}/blog` },
+    { label: t("nav.photos"), href: `/${pathname.split('/')[1] || ''}#gallery` },
+    { label: t("nav.reviews"), href: `/${pathname.split('/')[1] || ''}#reviews` },
+    { label: t("nav.map"), href: `/${pathname.split('/')[1] || ''}#map` },
   ];
 
   const switchLocale = (locale: string) => {
@@ -49,23 +51,23 @@ export default function Header() {
     >
       <div className="max-w-5xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
         {/* Site name */}
-        <a
-          href="#"
+        <Link
+          href={`/${pathname.split('/')[1] || ''}`}
           className="text-sm font-medium tracking-wide hover:text-accent transition-colors whitespace-nowrap"
         >
           მშრალი ხიდის ბაზარი
-        </a>
+        </Link>
 
         {/* Nav links - hidden on small screens */}
         <nav className="hidden md:flex items-center gap-8">
           {navItems.map((item) => (
-            <a
+            <Link
               key={item.href}
               href={item.href}
               className="text-sm text-muted-light dark:text-muted-dark hover:text-light-text dark:hover:text-dark-text transition-colors"
             >
               {item.label}
-            </a>
+            </Link>
           ))}
         </nav>
 

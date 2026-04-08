@@ -1,12 +1,20 @@
 {
   "nav": {
     "discover": "Discover",
+    "blog": "Blog",
     "photos": "Photos",
     "reviews": "Reviews",
     "map": "Map",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings"
+  },
+  "blog": {
+    "title": "Stories from the Market",
+    "subtitle": "Discover the history, culture, and hidden treasures of Dry Bridge Market.",
+    "readMore": "Read more",
+    "viewAll": "View all posts",
+    "backToList": "Back to all posts"
   },
   "hero": {
     "subtitle": "Official open-air public market managed by Tbilisi City Hall",
@@ -91,8 +99,25 @@
     "cookieSettings": "Cookie Settings",
     "lastUpdated": "Last Updated: April 2026"
   },
+  "tours": {
+    "title": "Recommended Local Tours",
+    "subtitle": "Discover the rich history and natural beauty of Tbilisi and its surroundings with our selected guided tours.",
+    "bookNow": "Book Now",
+    "tour1": "From Tbilisi: Mtskheta, Jvari, Gori & Uplistsikhe Day Trip",
+    "tour2": "Tbilisi: Mtskheta Jvari Market, Chronicles of Georgia & Wine Tour",
+    "tour3": "Magical Kakheti from Tbilisi – Sighnaghi, Bodbe & Chronicles",
+    "tour4": "Tbilisi: Gudauri & Kazbegi Day Trip (4WD Included)",
+    "tour5": "Tbilisi: Kakheti Region, Sighnaghi Tour with 9 Wine Tastings",
+    "tour6": "Sighnaghi (City of Love) + Nunnery + Wine Experience + Tbilisi Sea (Private)",
+    "tour7": "Slow Travel Tbilisi Sea: A Day Dipped in Lake Blue and Clear Sky",
+    "tour8": "Tbilisi Aerial Tramway + Mother of Georgia + Rike Park + Tbilisi Sea"
+  },
   "legal": {
     "officialNotice": "This website is managed and operated by Tbilisi City Hall and is the official information platform for Dry Bridge Market.",
+    "advertisement": {
+      "title": "Third-Party Advertisement Disclaimer",
+      "text": "This website contains third-party advertisements provided by Trip.com. These ads are directly served and managed by Trip.com. We assume no responsibility for the accuracy of the ad content, the quality of products/services, or any resulting transactions. When you click on an ad and are redirected to a third-party platform, please review and comply with that platform's privacy policy and terms of service."
+    },
     "privacy": {
       "title": "Privacy Policy",
       "effectiveDate": "Last Updated: April 2026",

@@ -98,6 +98,15 @@ export default async function LegalPage({
               </p>
             </div>
           ))}
+          
+          <div className="pt-8 mt-8 border-t border-border-light dark:border-border-dark">
+            <h2 className="text-lg font-semibold mb-3">
+              {t("advertisement.title")}
+            </h2>
+            <p className="text-base leading-relaxed text-muted-light dark:text-muted-dark">
+              {t("advertisement.text")}
+            </p>
+          </div>
         </div>
       </div>
     </main>
