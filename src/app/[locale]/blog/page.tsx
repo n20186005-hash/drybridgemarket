@@ -2,6 +2,7 @@ import { getTranslations } from "next-intl/server";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import AdBanner from "@/components/AdBanner";
 import { blogs } from "@/data/blogs";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -73,6 +74,13 @@ export default async function BlogIndexPage({ params }: { params: Promise<{ loca
                 </Link>
               );
             })}
+          </div>
+
+          <div className="mt-16">
+            <AdBanner 
+              id="SB15266995_blog_index" 
+              src="https://www.trip.com/partners/ad/SB15266995?Allianceid=7974128&SID=300882170&trip_sub1=%E7%BE%85%E8%A8%A5%E6%B2%B3%E5%8F%A3" 
+            />
           </div>
         </div>
       </div>
