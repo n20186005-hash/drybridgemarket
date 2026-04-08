@@ -105,7 +105,7 @@ export default async function BlogPostPage({
           </div>
 
           {/* Simple markdown-like rendering for the fake data */}
-          {content.body?.split('\n\n').map((paragraph, i, arr) => {
+          {content.body ? content.body.split('\n\n').map((paragraph, i, arr) => {
             // Calculate when to show the middle ad (roughly after 40% of the content)
             const showMiddleAd = i === Math.floor(arr.length * 0.4);
             
@@ -156,7 +156,7 @@ export default async function BlogPostPage({
                 )}
               </div>
             );
-          })}
+          }) : null}
           
           {/* Bottom Ad Banner */}
           <div className="-mx-4 sm:-mx-6 mt-12 mb-4">
