@@ -16,6 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function BlogIndexPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "blog" });
+  const localePrefix = locale === "en" ? "" : `/${locale}`;
 
   return (
     <main className="min-h-screen flex flex-col">
@@ -39,7 +40,7 @@ export default async function BlogIndexPage({ params }: { params: Promise<{ loca
               
               return (
                 <Link 
-                  href={`/${locale}/blog/${blog.slug}`} 
+                  href={`${localePrefix}/blog/${blog.slug}` || `/blog/${blog.slug}`}
                   key={blog.id}
                   className="group flex flex-col border border-border-light dark:border-border-dark rounded-xl overflow-hidden hover:shadow-md transition-all duration-300 bg-white dark:bg-neutral-900/50"
                 >

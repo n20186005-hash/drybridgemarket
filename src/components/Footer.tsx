@@ -6,6 +6,7 @@ import { useLocale } from "next-intl";
 export default function Footer() {
   const t = useTranslations("footer");
   const locale = useLocale();
+  const localePrefix = locale === "en" ? "" : `/${locale}`;
 
   return (
     <footer className="py-16 border-t border-border-light dark:border-border-dark">
@@ -42,12 +43,12 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="https://tbilisi.gov.ge/"
+                  href="https://maps.app.goo.gl/xMmN6kqmtBFinqba7"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-muted-light dark:text-muted-dark hover:text-accent transition-colors"
                 >
-                  Tbilisi City Hall
+                  Google Maps
                 </a>
               </li>
               <li>
@@ -79,7 +80,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li>
                 <a
-                  href={`/${locale}/privacy-policy`}
+                  href={`${localePrefix}/privacy-policy` || "/privacy-policy"}
                   className="text-sm text-muted-light dark:text-muted-dark hover:text-accent transition-colors"
                 >
                   {t("privacyPolicy")}
@@ -87,7 +88,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={`/${locale}/terms-of-service`}
+                  href={`${localePrefix}/terms-of-service` || "/terms-of-service"}
                   className="text-sm text-muted-light dark:text-muted-dark hover:text-accent transition-colors"
                 >
                   {t("termsOfService")}
@@ -95,7 +96,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={`/${locale}/cookie-settings`}
+                  href={`${localePrefix}/cookie-settings` || "/cookie-settings"}
                   className="text-sm text-muted-light dark:text-muted-dark hover:text-accent transition-colors"
                 >
                   {t("cookieSettings")}
@@ -111,6 +112,9 @@ export default function Footer() {
             </p>
             <p className="text-xs text-muted-light dark:text-muted-dark mt-2">
               {t("lastUpdatedText")}
+            </p>
+            <p className="text-xs text-muted-light dark:text-muted-dark mt-3 leading-relaxed">
+              {t("disclaimer")}
             </p>
           </div>
         </div>

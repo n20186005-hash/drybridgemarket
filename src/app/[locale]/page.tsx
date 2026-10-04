@@ -1,3 +1,5 @@
+import type { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
@@ -8,6 +10,42 @@ import BlogSection from "@/components/BlogSection";
 import RecommendedTours from "@/components/RecommendedTours";
 import Footer from "@/components/Footer";
 import AdBanner from "@/components/AdBanner";
+
+const localePaths = {
+  en: "/",
+  ka: "/ka",
+  "zh-hant": "/zh-hant",
+} as const;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "metadata.home" });
+
+  return {
+    title: t("title"),
+    description: t("description"),
+    alternates: {
+      canonical: localePaths[locale as keyof typeof localePaths] ?? "/",
+      languages: {
+        en: localePaths.en,
+        ka: localePaths.ka,
+        "zh-Hant": localePaths["zh-hant"],
+        "x-default": localePaths.en,
+      },
+    },
+    openGraph: {
+      title: t("title"),
+      description: t("description"),
+      url: localePaths[locale as keyof typeof localePaths] ?? "/",
+      siteName: "Dry Bridge Market",
+      type: "website",
+    },
+  };
+}
 
 export default function HomePage() {
   return (

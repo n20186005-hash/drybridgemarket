@@ -3,7 +3,7 @@ export const blogs = [
     id: "1",
     slug: "history-of-dry-bridge-market",
     date: "2026-03-15",
-    author: "Tbilisi City Hall",
+    author: "Editorial Team",
     readTime: 5,
     content: {
       en: {
@@ -20,7 +20,7 @@ Following the collapse of the Soviet Union, Georgia faced severe economic challe
 
 As the economy stabilized over the decades, the nature of the market changed. While you can still find ordinary household items, the Dry Bridge has transformed into a living museum and a hub for artists, antique dealers, and collectors.
 
-Today, under the official management of the Tbilisi City Hall, the market serves as:
+Today, the market serves as:
 - A showcase for local painters and artisans
 - A treasure trove of Soviet-era memorabilia
 - A major tourist attraction drawing visitors from around the world
@@ -44,7 +44,7 @@ The city government continues to support the market by maintaining the surroundi
 
 隨著過去幾十年經濟的穩定，市場的性質也發生了變化。雖然您仍然可以找到普通的家庭用品，但乾橋已經轉變為一座活生生的博物館，成為藝術家、古董商和收藏家的中心。
 
-今天，在提比里斯市政廳的官方管理下，該市場作為：
+今天，該市場作為：
 - 當地畫家和工匠的展示平台
 - 蘇聯時代紀念品的寶庫
 - 吸引世界各地遊客的主要旅遊景點
@@ -68,7 +68,7 @@ The city government continues to support the market by maintaining the surroundi
 
 როდესაც ეკონომიკა დასტაბილურდა ათწლეულების განმავლობაში, ბაზრის ბუნება შეიცვალა. სანამ ჯერ კიდევ შეგიძლიათ იპოვოთ ჩვეულებრივი საყოფაცხოვრებო ნივთები, მშრალი ხიდი გადაიქცა ცოცხალ მუზეუმად და ხელოვანების, ანტიკვარიატით მოვაჭრეების და კოლექციონერების ცენტრად.
 
-დღეს თბილისის მერიის ოფიციალური მენეჯმენტის ქვეშ ბაზარი ემსახურება როგორც:
+დღეს ბაზარი ემსახურება როგორც:
 - ადგილობრივი მხატვრების და ხელოსნების ვიტრინა
 - საბჭოთა ეპოქის მემორაბილიების საგანძური
 - მთავარი ტურისტული ატრაქციონი, რომელიც იზიდავს ვიზიტორებს მთელი მსოფლიოდან

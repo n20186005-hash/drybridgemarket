@@ -14,12 +14,11 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1565008576549-57569a49371d?w=1600&q=80"
+          src="/gallery/images (4).jpg"
           alt="Dry Bridge Market, Tbilisi"
           fill
           className="object-cover"
           priority
-          unoptimized
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-black/10" />
       </div>
@@ -27,10 +26,13 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 pb-16 pt-32 w-full">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white tracking-tight leading-tight">
-          მშრალი ხიდის ბაზარი
+          {t("hero.title")}
         </h1>
         <p className="text-xl sm:text-2xl text-white/80 mt-2 font-light">
-          Dry Bridge Market
+          {t("hero.localName")}
+        </p>
+        <p className="text-sm sm:text-base text-white/70 mt-3 max-w-2xl">
+          {t("hero.subtitle")}
         </p>
         <p className="text-lg text-white/70 mt-4 max-w-2xl font-light">
           {t("hero.description")}
@@ -52,6 +54,10 @@ export default function Hero() {
             {t("hero.hours")}
           </span>
         </div>
+
+        <p className="mt-3 text-sm text-white/60">
+          {t("hero.freshness")}
+        </p>
 
         <div className="mt-3 text-sm text-white/70">
           <span className="flex items-center gap-1.5">

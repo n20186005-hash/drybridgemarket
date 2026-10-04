@@ -53,6 +53,9 @@ export default function Gallery() {
         <p className="mt-3 text-muted-light dark:text-muted-dark">
           {t("subtitle")}
         </p>
+        <p className="mt-2 text-sm text-muted-light dark:text-muted-dark max-w-3xl">
+          {t("note")}
+        </p>
 
         {/* Photo Grid */}
         <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">

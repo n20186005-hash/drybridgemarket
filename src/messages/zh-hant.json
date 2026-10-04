@@ -16,15 +16,24 @@
     "viewAll": "查看所有文章",
     "backToList": "返回文章列表"
   },
+  "metadata": {
+    "home": {
+      "title": "Dry Bridge Market Tbilisi | 開放時間、照片與跳蚤市場指南",
+      "description": "造訪提比里斯 Dry Bridge Market。查看營業時段、位置、照片、古董、蘇聯紀念品、喬治亞藝術與參觀建議。"
+    }
+  },
   "hero": {
-    "subtitle": "提比里斯市市政廳官方管理的露天公共市場",
-    "description": "Dry Bridge Market (მშრალი ხიდის ბაზარი) 由 Tbilisi 市市政廳管理和維護。作為提比里斯重要的公共文化與旅遊地標，該市場自1990年代初以來一直是展示喬治亞歷史、文化和當地創造力的開放式公共空間。",
-    "rating": "4.5/5",
-    "reviewCount": "9,600+ 則評價",
-    "hours": "每日 11:00 AM – 6:00 PM",
+    "title": "Dry Bridge Market Tbilisi",
+    "localName": "მშრალი ხიდის ბაზარი",
+    "subtitle": "提比里斯知名跳蚤市場的獨立遊客指南",
+    "description": "探索古董、蘇聯紀念品、喬治亞畫作、手工紀念品、復古相機與週末市集氛圍，深入認識提比里斯乾橋市場。",
+    "rating": "4.4/5",
+    "reviewCount": "10,000+ 則 Google 評價",
+    "hours": "攤販常見營業時段：約 11:00 AM – 6:00 PM",
     "address": "PR23+96X, 提比里斯, 喬治亞",
     "openMaps": "在 Google Maps 上查看 →",
-    "tip": "週末最佳 — 攤販最多、氣氛最濃",
+    "tip": "通常週末攤位最多。實際營業情況可能會因天氣與攤販出勤而變動。",
+    "freshness": "Google Maps 評分已於 2026 年 10 月核對。",
     "phone": "+995 555 696 896"
   },
   "tags": {
@@ -42,8 +51,8 @@
   },
   "about": {
     "title": "關於市場",
-    "description1": "Dry Bridge Market (მშრალი ხიდის ბაზარი) 由 Tbilisi 市市政廳管理和維護。作為提比里斯重要的公共文化與旅遊地標，該市場自1990年代初以來一直是展示喬治亞歷史、文化和當地創造力的開放式公共空間。",
-    "description2": "本市場是提比里斯開放式公共跳蚤市場，全天對外開放（建議營運時間：每日約 11:00 AM – 6:00 PM，週末氛圍更佳）。免費入場，無需門票。地址：PR23+96X, Tbilisi, Georgia（位於 Mtkvari 河岸、Dry Bridge 下方）。",
+    "description1": "乾橋市場是提比里斯最知名的露天跳蚤市場之一，以古董、蘇聯時代物件、喬治亞畫作、手工藝品與每次都不同的在地尋寶體驗聞名。",
+    "description2": "本網站為獨立遊客指南。攤販常見營業時間約為上午 11 點到下午 6 點，通常週末選擇最豐富。免費入場。地址：PR23+96X, Tbilisi, Georgia。",
     "highlights": {
       "0": "蘇聯紀念品 — 軍事勳章、復古相機、琺瑯徽章、宣傳海報",
       "1": "喬治亞當地藝術家的原創油畫與水彩",
@@ -56,7 +65,7 @@
   "gallery": {
     "title": "照片集錦",
     "subtitle": "提比里斯乾橋市場即景",
-    "note": "照片來自市場官方收藏及授權媒體。如需查看全部照片，請前往我們的 Google Maps 頁面。",
+    "note": "瀏覽市場現場、古董、畫作與週末氛圍。若想查看最新遊客照片，也建議同步參考 Google Maps。",
     "photos": {
       "0": { "caption": "俯瞰乾橋與市場攤位" },
       "1": { "caption": "復古寶藏與蘇聯紀念品" },
@@ -68,31 +77,38 @@
   },
   "reviews": {
     "title": "遊客真實評價",
-    "subtitle": "評分與評價來自 Google Maps（最後更新：2026）。僅展示精選高分評價。",
+    "subtitle": "評價變動很快，因此我們直接引導你查看 Google Maps 上最新的公開回饋。",
     "seeMore": "在 Google Maps 查看更多評價 →",
-    "items": {
-      "0": { "name": "David K.", "date": "2026年3月", "text": "絕對是高加索地區最棒的跳蚤市場之一。花了幾個小時瀏覽蘇聯徽章、舊畫和各種古董。攤販很友善，喜歡分享故事。" },
-      "1": { "name": "Nino T.", "date": "2026年2月", "text": "我在提比里斯最愛的地方。每個週末都能發現新東西 — 舊黑膠唱片、手工珠寶。每次都像尋寶。" },
-      "2": { "name": "Marco L.", "date": "2026年1月", "text": "來提比里斯必訪之地。氣氛令人難以置信，尤其是週六。很適合找獨特紀念品和街拍。" },
-      "3": { "name": "Lisa W.", "date": "2025年12月", "text": "非常迷人的市場！我找到了漂亮的景泰藍琺瑯作品和復古喬治亞明信片。適度議價的話價格合理。" },
-      "4": { "name": "Sandro M.", "date": "2025年11月", "text": "這個市場是活的博物館。戰爭勳章、老相機、蘇聯宣傳海報 — 這裡展示的歷史令人驚嘆。" },
-      "5": { "name": "Yuki S.", "date": "2025年10月", "text": "週日早上來的。橋邊滿是販售油畫的藝術家。買了一幅漂亮的提比里斯城景畫。" }
+    "snapshot": {
+      "ratingTitle": "目前評分",
+      "ratingText": "Google Maps 目前顯示該市場評分為 4.4 / 5。",
+      "volumeTitle": "評價數量",
+      "volumeText": "超過一萬則公開評價，代表真實遊客關注度相當高。",
+      "sourceTitle": "最佳參考來源",
+      "sourceText": "出發前請先看 Google Maps，確認最新評論、照片與營業狀態。"
     }
   },
   "map": {
     "title": "如何前往",
-    "openMaps": "在 Google Maps 上查看 →"
+    "openMaps": "在 Google Maps 上查看 →",
+    "subtitle": "乾橋市場位於提比里斯市中心，步行、地鐵與公車都方便抵達。",
+    "address": "地址：PR23+96X, Tbilisi, Georgia",
+    "hours": "攤販常見營業時段：約 11:00 AM – 6:00 PM",
+    "transport": "可搭乘地鐵、公車或步行前往",
+    "parking": "附近有公共停車位",
+    "accessibility": "周邊步道相對容易通行"
   },
   "footer": {
-    "copyrightText": "© Tbilisi City Hall · 所有權利保留",
-    "lastUpdatedText": "最後更新：2026/4/7",
+    "copyrightText": "© 2026 drybridgemarket.com",
+    "lastUpdatedText": "最後更新：2026年10月",
+    "disclaimer": "本網站為獨立遊客指南，並非 Tbilisi City Hall 官方網站。",
     "moreInfo": "更多資訊",
-    "copyright": "© 2026 მშრალი ხიდის ბაზარი · 乾橋市場管理處，提比里斯。",
-    "lastUpdated": "最後更新：2026年4月",
+    "copyright": "© 2026 drybridgemarket.com",
+    "lastUpdated": "最後更新：2026年10月",
     "links": "實用連結",
     "georgiaTravel": "Georgia Travel",
     "gnta": "喬治亞國家旅遊管理局",
-    "phone": "管理處電話：+995 555 696 896",
+    "phone": "+995 555 696 896",
     "legal": "法律資訊",
     "privacyPolicy": "隱私權政策",
     "termsOfService": "服務條款",
@@ -116,15 +132,15 @@
     "dark": "深色"
   },
   "legal": {
-    "officialNotice": "本網站由 Tbilisi 市市政廳管理和營運，是 Dry Bridge Market 的官方資訊平台。",
+    "officialNotice": "本網站是 Dry Bridge Market 的獨立遊客指南，並非 Tbilisi City Hall 官方網站。",
     "advertisement": {
       "title": "第三方廣告聲明",
       "text": "本網站包含由 Trip.com 提供的第三方廣告內容。這些廣告由 Trip.com 直接投放與管理。我們不對廣告內容的準確性、產品服務品質及交易行為承擔任何責任。當您點擊廣告並跳轉至第三方平台時，請自行查閱並遵守該平台的隱私政策與服務條款。"
     },
     "privacy": {
       "title": "隱私權政策",
-      "intro": "本隱私權政策說明乾橋市場管理處（以下簡稱「我們」）在您造訪 drybridgemarket.com 時如何收集、使用及保護資訊。",
-      "effectiveDate": "生效日期：2026年4月",
+      "intro": "本隱私權政策說明 drybridgemarket.com 這個獨立遊客指南在您造訪網站時如何處理基本資訊。",
+      "effectiveDate": "最後更新：2026年10月",
       "collection": {
         "title": "我們收集的資訊",
         "text": "本網站不要求使用者註冊，也不直接收集個人資訊。我們可能會透過標準網站分析工具收集匿名使用數據（如頁面瀏覽量和瀏覽器類型），以改善網站效能。"
@@ -139,38 +155,38 @@
       },
       "contact": {
         "title": "聯繫方式",
-        "text": "如有隱私權相關問題，請聯繫管理處電話：+995 555 696 896。"
+        "text": "如有與本網站相關的隱私問題，請使用本站列出的聯絡資訊。"
       }
     },
     "terms": {
       "title": "服務條款",
-      "intro": "使用 drybridgemarket.com（以下簡稱「本網站」）即表示您同意乾橋市場管理處制定的以下條款及條件。",
-      "effectiveDate": "生效日期：2026年4月",
+      "intro": "使用 drybridgemarket.com 即表示您同意這個獨立遊客指南的以下條款。",
+      "effectiveDate": "最後更新：2026年10月",
       "use": {
         "title": "網站使用",
-        "text": "本網站由乾橋市場管理處運營，作為公共資訊服務。所有內容均為喬治亞提比里斯乾橋市場的一般資訊。我們盡合理努力確保準確性，但不保證所有資訊在任何時候都是完整或最新的。"
+        "text": "本網站提供 Dry Bridge Market 的旅遊參考資訊。營業時間、攤販出勤與現場狀態可能隨時變動。"
       },
       "ip": {
         "title": "智慧財產權",
-        "text": "本網站所有原創內容，包括文字、設計及版面，均為乾橋市場管理處之財產。照片來源於授權媒體及市場官方收藏。未經書面許可，禁止複製。"
+        "text": "本網站的原創文字、設計與版面受版權保護。未經書面許可，不得複製或散布。"
       },
       "external": {
         "title": "外部連結免責聲明",
-        "text": "本網站包含指向第三方外部網站的連結，包括 Google Maps、Georgia Travel (georgia.travel) 及喬治亞國家旅遊管理局 (gnta.ge)。這些連結為訪客方便而提供。乾橋市場管理處不控制、不認可，亦不對任何第三方網站的內容、隱私權政策或做法承擔責任。存取外部連結需自行承擔風險。"
+        "text": "本網站包含 Google Maps、Georgia Travel 與喬治亞國家旅遊管理局等第三方連結，僅供參考。我們不控制第三方網站內容與資料處理方式。"
       },
       "liability": {
         "title": "責任限制",
-        "text": "乾橋市場管理處不對因使用本網站或依賴其內容（包括透過第三方服務獲取的資訊）所產生的任何直接或間接損害承擔責任。"
+        "text": "我們會盡力維持資訊準確，但不對因依賴本網站內容而產生的直接或間接損害負責。"
       },
       "contact": {
         "title": "聯繫方式",
-        "text": "如有關於本條款的疑問，請聯繫管理處電話：+995 555 696 896。"
+        "text": "如有與本網站條款相關的問題，請使用本站列出的聯絡資訊。"
       }
     },
     "cookies": {
       "title": "Cookie 設定",
       "intro": "本頁面說明 drybridgemarket.com 如何使用 Cookie 及類似技術。",
-      "effectiveDate": "生效日期：2026年4月",
+      "effectiveDate": "最後更新：2026年10月",
       "essential": {
         "title": "必要 Cookie",
         "text": "我們使用嚴格必要的 Cookie 來儲存您的語言偏好（English、ქართული 或 繁體中文）及主題選擇（淺色或深色模式）。這些 Cookie 是網站正常運作所必需的，無法停用。"
@@ -185,7 +201,7 @@
       },
       "contact": {
         "title": "聯繫方式",
-        "text": "如有關於 Cookie 使用的問題，請聯繫管理處電話：+995 555 696 896。"
+        "text": "如有與本網站 Cookie 使用相關的問題，請使用本站列出的聯絡資訊。"
       }
     }
   }

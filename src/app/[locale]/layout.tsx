@@ -7,9 +7,12 @@ import { routing } from "@/i18n/routing";
 import "../globals.css";
 
 export const metadata: Metadata = {
-  title: "მშრალი ხიდის ბაზარი | Dry Bridge Market — Tbilisi",
-  description:
-    "Discover Tbilisi's iconic Dry Bridge Market — antiques, Soviet memorabilia, Georgian handicrafts, and original art by the river.",
+  metadataBase: new URL("https://www.drybridgemarket.com"),
+  title: {
+    default: "Dry Bridge Market Tbilisi",
+    template: "%s | Dry Bridge Market Tbilisi",
+  },
+  applicationName: "Dry Bridge Market",
 };
 
 export function generateStaticParams() {

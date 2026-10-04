@@ -35,6 +35,7 @@ export default async function BlogPostPage({
   const { locale, slug } = await params;
   const blog = blogs.find((b) => b.slug === slug);
   if (!blog) notFound();
+  const localePrefix = locale === "en" ? "" : `/${locale}`;
 
   const t = await getTranslations({ locale, namespace: "blog" });
   
@@ -49,7 +50,7 @@ export default async function BlogPostPage({
       
       <article className="flex-grow pt-32 pb-24 max-w-3xl mx-auto px-4 sm:px-6 w-full">
         <Link
-          href={`/${locale}/blog`}
+          href={`${localePrefix}/blog` || "/blog"}
           className="text-sm text-accent hover:underline inline-flex items-center gap-1 mb-12 transition-colors"
         >
           <svg

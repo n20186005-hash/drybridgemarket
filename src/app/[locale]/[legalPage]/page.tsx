@@ -34,6 +34,7 @@ export default async function LegalPage({
   const { locale, legalPage } = await params;
   const key = legalPages[legalPage];
   if (!key) notFound();
+  const localePrefix = locale === "en" ? "" : `/${locale}`;
 
   const t = await getTranslations({ locale, namespace: "legal" });
 
@@ -49,7 +50,7 @@ export default async function LegalPage({
     <main className="min-h-screen">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-24 sm:py-32">
         <Link
-          href={`/${locale}`}
+          href={localePrefix || "/"}
           className="text-sm text-accent hover:underline inline-flex items-center gap-1 mb-12"
         >
           <svg

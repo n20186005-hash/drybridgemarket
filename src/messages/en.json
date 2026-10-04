@@ -16,15 +16,24 @@
     "viewAll": "View all posts",
     "backToList": "Back to all posts"
   },
+  "metadata": {
+    "home": {
+      "title": "Dry Bridge Market Tbilisi | Hours, Photos & Flea Market Guide",
+      "description": "Visit Dry Bridge Market in Tbilisi, Georgia. Check opening hours, location, photos, antiques, Soviet memorabilia, Georgian art, souvenirs and tips for visiting the famous flea market."
+    }
+  },
   "hero": {
-    "subtitle": "Official open-air public market managed by Tbilisi City Hall",
-    "description": "Dry Bridge Market (მშრალი ხიდის ბაზარი) is managed and maintained by Tbilisi City Hall. As an important public cultural and tourism landmark in Tbilisi, this market has been an open public space showcasing Georgian history, culture, and local creativity since the early 1990s.",
-    "rating": "4.5/5",
-    "reviewCount": "9,600+ reviews",
-    "hours": "Daily 11:00 AM – 6:00 PM",
+    "title": "Dry Bridge Market Tbilisi",
+    "localName": "მშრალი ხიდის ბაზარი",
+    "subtitle": "Independent visitor guide to Tbilisi's best-known flea market",
+    "description": "Explore antiques, Soviet memorabilia, Georgian art, handmade souvenirs, vintage cameras and weekend market scenes at Dry Bridge Market in central Tbilisi.",
+    "rating": "4.4/5",
+    "reviewCount": "10,000+ Google reviews",
+    "hours": "Typical vendor hours: around 11:00 AM – 6:00 PM",
     "address": "PR23+96X, Tbilisi, Georgia",
     "openMaps": "Open on Google Maps →",
-    "tip": "Best on weekends — peak atmosphere & vendors",
+    "tip": "Weekends usually have the biggest selection. Hours can vary with weather and vendor attendance.",
+    "freshness": "Google Maps rating checked in October 2026.",
     "phone": "+995 555 696 896"
   },
   "tags": {
@@ -42,13 +51,13 @@
   },
   "about": {
     "title": "About the Market",
-    "description1": "Dry Bridge Market (მშრალი ხიდის ბაზარი) is managed and maintained by Tbilisi City Hall. As an important public cultural and tourism landmark in Tbilisi, this market has been an open public space showcasing Georgian history, culture, and local creativity since the early 1990s.",
-    "description2": "This market is an open-air public flea market in Tbilisi, open all day (recommended operating hours: approx. 11:00 AM – 6:00 PM daily, better atmosphere on weekends). Free admission, no tickets required. Address: PR23+96X, Tbilisi, Georgia (located on the banks of the Mtkvari River, under the Dry Bridge)."
+    "description1": "Dry Bridge Market (მშრალი ხიდის ბაზარი) is one of Tbilisi's best-known open-air flea markets, known for antiques, Soviet-era objects, Georgian paintings, handmade crafts and ever-changing local finds.",
+    "description2": "This website is an independent visitor guide. Typical vendor hours are around 11:00 AM to 6:00 PM, with the widest selection usually on weekends. Admission is free. Address: PR23+96X, Tbilisi, Georgia, near the Mtkvari River and the Dry Bridge."
   },
   "gallery": {
     "title": "Photo Gallery",
     "subtitle": "Scenes from Dry Bridge Market, Tbilisi",
-    "note": "Photos sourced from the market's official collection and licensed media. To view all photos, visit our Google Maps page.",
+    "note": "Browse recent market scenes, antiques, paintings and weekend atmosphere. For the latest visitor photos, check Google Maps as well.",
     "viewOriginal": "View Original",
     "photos": {
       "0": { "caption": "Overlooking the Dry Bridge and market stalls" },
@@ -61,43 +70,42 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "subtitle": "For detailed reviews, please visit our Google Maps page",
-    "note": "Visitors can view complete reviews through the following link:",
-    "viewAll": "View on Google Maps",
+    "subtitle": "Live review details can change quickly, so we point visitors to Google Maps for the latest public feedback.",
     "seeMore": "View more reviews on Google Maps",
-    "items": {
-      "0": { "name": "Visitor A", "date": "March 2026", "text": "This is a very cultural market." },
-      "1": { "name": "Visitor B", "date": "February 2026", "text": "The market showcases Georgia's rich history and culture." },
-      "2": { "name": "Visitor C", "date": "January 2026", "text": "Officially managed market with clean and orderly environment." },
-      "3": { "name": "Visitor D", "date": "December 2025", "text": "Worth visiting as a public cultural space." },
-      "4": { "name": "Visitor E", "date": "November 2025", "text": "Important venue for displaying historical and cultural heritage." },
-      "5": { "name": "Visitor F", "date": "October 2025", "text": "Cultural landmark officially managed by the city government." }
+    "snapshot": {
+      "ratingTitle": "Current rating",
+      "ratingText": "The market is currently listed at 4.4/5 on Google Maps.",
+      "volumeTitle": "Review volume",
+      "volumeText": "More than ten thousand public reviews help signal strong real-world visitor interest.",
+      "sourceTitle": "Best source",
+      "sourceText": "Use Google Maps before visiting to confirm the latest comments, photos and open status."
     }
   },
   "map": {
     "title": "Map & Transportation",
     "subtitle": "Dry Bridge Market is located in the center of Tbilisi with convenient transportation",
     "address": "Address: PR23+96X, Tbilisi, Georgia",
-    "hours": "Opening Hours: Daily 11:00 AM – 6:00 PM",
+    "hours": "Typical vendor hours: around 11:00 AM – 6:00 PM",
     "transport": "Accessible by metro, bus, or on foot",
     "parking": "Public parking available nearby",
     "accessibility": "Accessible pathways available",
     "openMaps": "Open on Google Maps →"
   },
   "footer": {
-    "copyrightText": "© Tbilisi City Hall. All rights reserved.",
-    "lastUpdatedText": "Last Updated: 2026/4/7",
+    "copyrightText": "© 2026 drybridgemarket.com",
+    "lastUpdatedText": "Last updated: October 2026",
+    "disclaimer": "Independent visitor guide. This website is not the official website of Tbilisi City Hall.",
     "moreInfo": "More Information",
     "links": "Useful Links",
     "legal": "Legal Information",
     "phone": "+995 555 696 896",
-    "copyright": "© Tbilisi City Hall. All rights reserved.",
+    "copyright": "© 2026 drybridgemarket.com",
     "georgiaTravel": "Georgia Travel",
     "gnta": "Georgian National Tourism Administration",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
     "cookieSettings": "Cookie Settings",
-    "lastUpdated": "Last Updated: April 2026"
+    "lastUpdated": "Last updated: October 2026"
   },
   "tours": {
     "title": "Recommended Local Tours",
@@ -113,15 +121,15 @@
     "tour8": "Tbilisi Aerial Tramway + Mother of Georgia + Rike Park + Tbilisi Sea"
   },
   "legal": {
-    "officialNotice": "This website is managed and operated by Tbilisi City Hall and is the official information platform for Dry Bridge Market.",
+    "officialNotice": "This website is an independent visitor guide to Dry Bridge Market and is not the official website of Tbilisi City Hall.",
     "advertisement": {
       "title": "Third-Party Advertisement Disclaimer",
       "text": "This website contains third-party advertisements provided by Trip.com. These ads are directly served and managed by Trip.com. We assume no responsibility for the accuracy of the ad content, the quality of products/services, or any resulting transactions. When you click on an ad and are redirected to a third-party platform, please review and comply with that platform's privacy policy and terms of service."
     },
     "privacy": {
       "title": "Privacy Policy",
-      "effectiveDate": "Last Updated: April 2026",
-      "intro": "This website is managed and operated by Tbilisi City Hall and is the official information platform for Dry Bridge Market. We are committed to protecting visitor privacy and complying with relevant data protection regulations.",
+      "effectiveDate": "Last updated: October 2026",
+      "intro": "This independent guide explains how drybridgemarket.com handles basic visitor information. We aim to keep data collection minimal and to protect visitor privacy.",
       "collection": {
         "title": "Information Collection",
         "text": "We only collect the minimum information necessary to provide basic website functionality. No personally identifiable information is collected unless you voluntarily provide it."
@@ -136,16 +144,16 @@
       },
       "contact": {
         "title": "Contact Us",
-        "text": "For privacy-related questions, please contact Tbilisi City Hall through the official website."
+        "text": "For privacy-related questions about this website, please use the contact details shown on this site."
       }
     },
     "terms": {
       "title": "Terms of Service",
-      "effectiveDate": "Last Updated: April 2026",
-      "intro": "This website is managed and operated by Tbilisi City Hall and is the official information platform for Dry Bridge Market. By using this website, you agree to the following terms.",
+      "effectiveDate": "Last updated: October 2026",
+      "intro": "By using drybridgemarket.com, you agree to the following terms for this independent visitor guide.",
       "use": {
         "title": "Website Use",
-        "text": "This website provides official information about Dry Bridge Market. Content is for reference only, and we reserve the right to update information at any time."
+        "text": "This website provides visitor information about Dry Bridge Market for reference only. Details such as opening hours, vendor attendance and availability can change."
       },
       "ip": {
         "title": "Intellectual Property",
@@ -161,13 +169,13 @@
       },
       "contact": {
         "title": "Contact Us",
-        "text": "For any questions, please contact Tbilisi City Hall through the official website."
+        "text": "For questions about this website, please use the contact details shown on this site."
       }
     },
     "cookies": {
       "title": "Cookie Settings",
-      "effectiveDate": "Last Updated: April 2026",
-      "intro": "This website is managed and operated by Tbilisi City Hall and is the official information platform for Dry Bridge Market. We only use necessary functional cookies.",
+      "effectiveDate": "Last updated: October 2026",
+      "intro": "This independent guide only uses necessary functional cookies to support core site features.",
       "essential": {
         "title": "Essential Cookies",
         "text": "These cookies are necessary for proper website operation and cannot be disabled."
@@ -182,7 +190,7 @@
       },
       "contact": {
         "title": "Contact Us",
-        "text": "For cookie-related questions, please contact Tbilisi City Hall through the official website."
+        "text": "For cookie-related questions about this website, please use the contact details shown on this site."
       }
     }
   }

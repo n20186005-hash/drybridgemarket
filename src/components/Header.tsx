@@ -1,6 +1,7 @@
 "use client";
 
 import { useTranslations } from "next-intl";
+import { useLocale } from "next-intl";
 import { useTheme } from "next-themes";
 import { useRouter, usePathname } from "@/i18n/routing";
 import { useEffect, useState } from "react";
@@ -14,12 +15,14 @@ const localeLabels: Record<string, string> = {
 
 export default function Header() {
   const t = useTranslations();
+  const locale = useLocale();
   const { theme, setTheme } = useTheme();
   const router = useRouter();
   const pathname = usePathname();
   const [scrolled, setScrolled] = useState(false);
   const [mounted, setMounted] = useState(false);
   const [langOpen, setLangOpen] = useState(false);
+  const localePrefix = locale === "en" ? "" : `/${locale}`;
 
   useEffect(() => {
     setMounted(true);
@@ -29,11 +32,11 @@ export default function Header() {
   }, []);
 
   const navItems = [
-    { label: t("nav.discover"), href: `/${pathname.split('/')[1] || ''}#intro` },
-    { label: t("nav.blog"), href: `/${pathname.split('/')[1] || ''}/blog` },
-    { label: t("nav.photos"), href: `/${pathname.split('/')[1] || ''}#gallery` },
-    { label: t("nav.reviews"), href: `/${pathname.split('/')[1] || ''}#reviews` },
-    { label: t("nav.map"), href: `/${pathname.split('/')[1] || ''}#map` },
+    { label: t("nav.discover"), href: `${localePrefix}/#intro` || "/" },
+    { label: t("nav.blog"), href: `${localePrefix}/blog` || "/blog" },
+    { label: t("nav.photos"), href: `${localePrefix}/photos` || "/photos" },
+    { label: t("nav.reviews"), href: `${localePrefix}/#reviews` || "/#reviews" },
+    { label: t("nav.map"), href: `${localePrefix}/#map` || "/#map" },
   ];
 
   const switchLocale = (locale: string) => {
@@ -52,7 +55,7 @@ export default function Header() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
         {/* Site name */}
         <Link
-          href={`/${pathname.split('/')[1] || ''}`}
+          href={localePrefix || "/"}
           className="text-sm font-medium tracking-wide hover:text-accent transition-colors whitespace-nowrap"
         >
           მშრალი ხიდის ბაზარი
