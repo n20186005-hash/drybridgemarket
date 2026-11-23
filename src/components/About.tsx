@@ -17,6 +17,16 @@ export default function About() {
         <p className="mt-4 text-lg leading-relaxed text-muted-light dark:text-muted-dark max-w-3xl">
           {t("description2")}
         </p>
+        <aside className="mt-8 max-w-3xl rounded-xl border border-border-light p-5 dark:border-border-dark sm:p-6">
+          <h3 className="text-xl font-semibold">{t("managementTitle")}</h3>
+          <p className="mt-3 leading-relaxed text-muted-light dark:text-muted-dark">
+            {t("managementCopy")}
+          </p>
+          <ul className="mt-4 flex flex-wrap gap-x-5 gap-y-2">
+            <li><a className="text-accent underline" href="https://www.tbilisi.gov.ge/">{t("municipality")}</a></li>
+            <li><a className="text-accent underline" href="https://1tv.ge/lang/en/news/pm-regards-opening-of-dedaena-and-march-9-gardens-as-great-gift/">{t("restoration")}</a></li>
+          </ul>
+        </aside>
       </div>
     </section>
   );

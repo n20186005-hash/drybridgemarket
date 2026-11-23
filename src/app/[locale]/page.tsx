@@ -53,12 +53,12 @@ export default function HomePage() {
     <main className="min-h-screen">
       <Header />
       <Hero />
+      <About />
       <AdBanner 
         title="Discover Local Activities" 
         id="SB15271426" 
         src="https://www.trip.com/partners/ad/SB15271426?Allianceid=7974128&SID=300882170&trip_sub1=" 
       />
-      <About />
       <AdBanner 
         title="Explore Tbilisi" 
         id="SB15266995" 
