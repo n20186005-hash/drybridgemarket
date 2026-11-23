@@ -6,6 +6,7 @@ import { useTheme } from "next-themes";
 import { useRouter, usePathname } from "@/i18n/routing";
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import { nearbyLabels, type NearbyLocale } from "@/data/nearby";
 
 const localeLabels: Record<string, string> = {
   en: "English",
@@ -34,6 +35,7 @@ export default function Header() {
   const navItems = [
     { label: t("nav.discover"), href: `${localePrefix}/#intro` || "/" },
     { label: t("nav.blog"), href: `${localePrefix}/blog` || "/blog" },
+    { label: nearbyLabels[locale as NearbyLocale].heading, href: `${localePrefix}/#nearby` },
     { label: t("nav.photos"), href: `${localePrefix}/photos` || "/photos" },
     { label: t("nav.reviews"), href: `${localePrefix}/#reviews` || "/#reviews" },
     { label: t("nav.map"), href: `${localePrefix}/#map` || "/#map" },

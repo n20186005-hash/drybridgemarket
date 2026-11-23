@@ -7,6 +7,7 @@ import Gallery from "@/components/Gallery";
 import Reviews from "@/components/Reviews";
 import MapSection from "@/components/MapSection";
 import BlogSection from "@/components/BlogSection";
+import Nearby from "@/components/Nearby";
 import RecommendedTours from "@/components/RecommendedTours";
 import Footer from "@/components/Footer";
 import AdBanner from "@/components/AdBanner";
@@ -64,6 +65,7 @@ export default function HomePage() {
         src="https://www.trip.com/partners/ad/SB15266995?Allianceid=7974128&SID=300882170&trip_sub1=%E7%BE%85%E8%A8%A5%E6%B2%B3%E5%8F%A3" 
       />
       <BlogSection />
+      <Nearby />
       <Gallery />
       <Reviews />
       <MapSection />
